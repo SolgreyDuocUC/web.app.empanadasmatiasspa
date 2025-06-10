@@ -4,4 +4,5 @@ public class empleado {
 
     private Long idEmpleado;
     private int runEmpleado;
+    
 }
